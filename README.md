@@ -233,6 +233,54 @@ kubectl logs <pod-name>
 
 # Final Architecture
 
-```
+
 Docker Image → Kubernetes Deployment → Kubernetes Service → Browser Access
-```
+
+
+# Screenshots
+
+## Docker Version
+![Docker Version](pictures/dockerversion.png)
+
+## Docker & Kubectl Version
+![Docker Kubectl Version](pictures/dockerkubectlversion.png)
+
+## Docker Images
+![Docker Images](pictures/dockerimages.png)
+
+## Docker Data
+![Docker Data](pictures/dockerdata.png)
+
+##Running Docker Image in Browser
+![Docker Image Browser](pictures/dockerimagebrowser.png)
+
+## Docker Kind Desktop
+![Docker Kind Desktop](pictures/dockerkinddesktop.png)
+
+## HTML Index Page
+![Index Page](pictures/index.png)
+
+
+
+# Kubernetes Screenshots
+
+## Kubectl Version
+![Kubectl Version](pictures/kubectlversion.png)
+
+## Kubernetes Pods
+![Kubernetes Pods](pictures/kubepods.png)
+
+## Kubernetes Pods Running
+![Kubernetes Pods Running](pictures/kubepodsunning.png)
+
+
+
+## Deployment
+![Deployment](pictures/deployment.png)
+
+## Kubernetes Service
+![Kubernetes Service](pictures/service.png)
+
+## Kubernetes Application in Browser
+![Kubectl Browser](pictures/kubectlimgbrowser.png)
+
